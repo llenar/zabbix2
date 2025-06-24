@@ -44,7 +44,7 @@
 
 # Решение 3
 
-![alt text](https://github.com/llenar/zabbix2/blob/main/2/Temp1.png)
+![alt text](https://github.com/llenar/zabbix2/blob/main/2/Temp_1.png)
 
 3. Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent.
 При подключении Temp1 и Linux by Zabbix Agent выходит ошибка. Выключил Linux by Zabbix Agent, подключил Temp1.

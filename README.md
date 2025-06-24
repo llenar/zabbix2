@@ -10,7 +10,7 @@
 
 # Решение 1
 
-![alt text](https://github.com/llenar/zabbix2/blob/main/2/Temp1.png)
+![alt text](https://github.com/llenar/zabbix2/blob/main/2/Temp_1.png)
 ![alt text](https://github.com/llenar/zabbix2/blob/main/2/CPU.png)
 ![alt text](https://github.com/llenar/zabbix2/blob/main/2/RAM.png)
 
